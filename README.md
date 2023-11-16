@@ -1,5 +1,5 @@
 <h1 align="center">Hola 👋, Me llamo Sergi Ruax</h1>
-<h3 align="center">soy un Java developer apasionado</h3>
+<h3 align="center">Soy Ingeniero Informático y un Java developer apasionado</h3>
 
 - 👨‍💻 All of my projects are available at [seruax.com](seruax.com)
 
