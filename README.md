@@ -1,11 +1,17 @@
 <h1 align="center">Hola 👋, Me llamo Sergi Ruax</h1>
 <h3 align="center">Soy un Ingeniero Informático recién titulado y un Desarrollador Java apasionado</h3>
 
+Desarrollador backend con título en Ingeniería Informática, recién graduado y apasionado por el desarrollo backend. Especializado en Java y Spring Boot, me enfoco en la resolución de problemas, la lógica interna de las aplicaciones y la optimización de rendimiento. Aunque mi pasión es el backend, también tengo interés por el frontend. Busco construir una carrera sólida en el desarrollo backend y web.
+
+<br>
+
 - 👨‍💻 All of my projects are available at [seruax.com](seruax.com)
 
 - 💬 Ask me about **Java, Spring Boot**
 
 - 📫 How to reach me **info@seruax.com**
+
+<br>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
