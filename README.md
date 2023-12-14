@@ -5,11 +5,11 @@ Desarrollador backend con título en Ingeniería Informática, recién graduado 
 
 <br>
 
-- 👨‍💻 All of my projects are available at [seruax.com](seruax.com)
+- 👨‍💻 All of my projects are available at [github.com/seruax](https://github.com/seruax)
 
-- 💬 Ask me about **Java, Spring Boot**
+- 💬 Ask me about **Backend development, Java, Spring Boot**
 
-- 📫 How to reach me **info@seruax.com**
+- 📫 How to reach me **seruax@hotmail.com**
 
 <br>
 
