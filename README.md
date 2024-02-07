@@ -1,7 +1,11 @@
 <h1 align="center">Hola 👋, Me llamo Sergi Ruax</h1>
 <h3 align="center">Soy un Ingeniero Informático recién titulado y un Desarrollador Java apasionado</h3>
 
-Desarrollador backend con título en Ingeniería Informática, recién graduado y apasionado por el desarrollo backend. Especializado en Java y Spring Boot, me enfoco en la resolución de problemas, la lógica interna de las aplicaciones y la optimización de rendimiento. Aunque mi pasión es el backend, también tengo interés por el frontend. Busco construir una carrera sólida en el desarrollo backend y web.
+Graduado en Ingeniería Informática y especializado en desarrollar soluciones 
+mediante el uso de Java y Spring Boot. Mi enfoque y experiencia se centran en el 
+backend, donde he trabajado en la creación de proyectos utilizando tecnologías 
+clave como Spring Boot, Microservicios, Spring Cloud, Spring Data JPA, BBDD 
+relacionales, REST, MVC, entre otras. 
 
 <br>
 
